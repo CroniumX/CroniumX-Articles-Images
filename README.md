@@ -1,1 +1,1 @@
-# CroniumX Custom Images
+# CroniumX Images
